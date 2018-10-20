@@ -1,5 +1,5 @@
 _repo: The-Bride-of-the-Nile-Volume-09_5525
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   translator:
     agent_name: Bell, Clara
@@ -35,5 +35,6 @@ subjects:
 - !lcsh 'German fiction -- Translations into English'
 - !lcsh 'Egypt -- History -- Fiction'
 - !lcc 'PT'
+- GITenberg
 title: The Bride of the Nile — Volume 09
 url: http://www.gutenberg.org/ebooks/5525
